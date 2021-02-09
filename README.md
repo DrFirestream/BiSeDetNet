@@ -1,0 +1,2 @@
+# BiSeDetNet
+Detection via segmentation
